@@ -1,11 +1,71 @@
-# Sample Snack app
+# Expense Tracker App - React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A modern and feature-rich Expense Tracker application built using React Native.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+* Add Expenses
+* Edit Expenses
+* Delete Expenses
+* Monthly Budget Management
+* Expense Analytics
+* Pie Chart Visualization
+* Category Filtering
+* Dark Mode / Light Mode
+* Animated Expense Cards
+* Responsive Modern UI
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Categories
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+* Food
+* Travel
+* Shopping
+* Bills
+* Other
+
+## Technologies Used
+
+* React Native
+* JavaScript
+* Expo
+* React Native Chart Kit
+* Expo Linear Gradient
+* Animated API
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/divyaa2003/Expense-Tracker-App-React-Native.git
+```
+
+Go to the project folder:
+
+```bash
+cd Expense-Tracker-App-React-Native
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the application:
+
+```bash
+npm start
+```
+
+## Screenshots
+
+Add your application screenshots here.
+
+## Author
+
+Divyaa
+
+## License
+
+This project is open source and free to use.
