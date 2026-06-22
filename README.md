@@ -59,8 +59,10 @@ npm start
 ```
 
 ## Screenshots
+<img width="373" height="769" alt="Screenshot 2026-06-22 143229" src="https://github.com/user-attachments/assets/4d18995a-3092-441f-99bc-a9c32fa3c2f0" />
+<img width="374" height="777" alt="Screenshot 2026-06-22 143249" src="https://github.com/user-attachments/assets/d13034aa-7ff4-435f-baff-d79a03d19c6e" />
 
-Add your application screenshots here.
+
 
 ## Author
 
